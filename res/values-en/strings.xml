@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MartiAndroid</string>
+    <string name="title">Welcome</string>
+    <string name="message">This is a multilingual application</string>
+</resources>
