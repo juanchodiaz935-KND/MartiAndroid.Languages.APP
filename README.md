@@ -1,4 +1,4 @@
-1. open the Res file, displaying the arrow.
+1. Open the Res file, displaying the arrow.
 2. Verify the files with andorid studio codes to make sure that they are working.
 3. Check the simulator.
 
